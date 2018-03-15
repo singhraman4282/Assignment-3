@@ -15,7 +15,7 @@
     self = [super init];
     if (self) {
        
-        model = @"Prius";
+        self.model = @"Prius";
     }
     return self;
 }
